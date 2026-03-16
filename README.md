@@ -98,7 +98,9 @@ VITE_APP_URL=http://localhost:5001/
 - See real-time resume updates  
 
 ### 6. 📄 Export Options  
-- Download resumes in **PDF format**   
+- Download resumes in **PDF format**
+- ### 7. ATS Scoring option\
+- check ats score of your resume by uploading resume and job Discription.
 
 ## Contribution
 
