@@ -16,8 +16,8 @@ To run AI Resume Builder locally, follow these steps:
 ### 1️⃣ Clone the Repository
 
 ```bash
-git clone https://github.com/PrushtPatel-0310/AI-Resume-Builder.git
-cd AI-Resume-Builder
+git clone https://github.com/PrushtPatel-0310/AI-Resume_Builder.git
+cd AI-Resume_Builder
 ```
 
 ### 2️⃣ Create Environment Files  
@@ -29,7 +29,7 @@ Before proceeding, create the necessary environment files for **both frontend an
 Create a `.env` file inside the `Backend/` directory and add the following:  
 
 ```plaintext
-MONGODB_URI={Your MongoDB URI} # If using Docker: mongodb://mongodb:27017/ai-resume-builder
+MONGODB_URI={Your MongoDB URI}  
 PORT=5001
 JWT_SECRET_KEY={Your Secret Key} #example "secret"
 JWT_SECRET_EXPIRES_IN="1d"
@@ -113,7 +113,7 @@ Click the **Fork** button on the top right of the repository page.
 ### 2. Clone Your Fork
 
 ```bash
-git clone https://github.com/your-username/AI-Resume-Builder.git
+git clone https://github.com/your-username/AI-Resume_-Builder.git
 cd AI-Resume-Builder
 ```
 
@@ -145,19 +145,11 @@ git push origin feature-name
 ### 7. Create a Pull Request (PR)
 
 - Go to the original repository:  
-  **https://github.com/PrushtPatel-0310/AI-Resume-Builder**
+  **https://github.com/PrushtPatel-0310/AI-Resume_Builder**
 - Click **"New Pull Request"** and select your branch.
 - Add a description and submit your PR.
 
 ### 8. Review & Merge  
 
 The maintainers will review your PR. Once approved, it will be merged into the main repository.
-
----
-
-## Developers 👨‍💻👩‍💻
-
-- [@Sahid Raja Ansari](https://www.linkedin.com/in/sahidrajaansari/)
-- [@Shaharyar Alam](https://www.linkedin.com/in/shaharyar-alam-305322208/)
-
----
+ 
